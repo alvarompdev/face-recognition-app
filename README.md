@@ -241,26 +241,12 @@ python face_recognizer.py train tu_nombre
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
----
-
 ## 📞 Contacto
 
 **Álvaro Muñoz Panadero**
 - Email: [alvaromp.dev@gmail.com](mailto:alvaromp.dev@gmail.com)
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-
----
-
-## 🎉 Agradecimientos
-
-- OpenCV team por la excelente librería de visión por computadora
-- scikit-learn por los algoritmos de machine learning
-- FastAPI por el framework web moderno
-
+- GitHub: [alvarompdev](https://github.com/tu-usuario)
+  
 ---
 
 ⭐ **¡Si te ha sido útil este proyecto, dale una estrella en GitHub!**
